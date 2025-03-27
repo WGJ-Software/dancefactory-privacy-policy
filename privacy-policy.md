@@ -4,10 +4,10 @@ processing of personal data for which we decide the purposes and the means of pr
 With “personal data” we mean information which is directly or indirectly referable to a natural
 living person and which are processed in connection with the Services.
 
-We collect personal data when you visit and use our website. In this section, you will find
-more information about our website-specific processes and tools, in particular from external
-partners. By using the website you agree to the collection of necessary cookies, for the
-collection of other information we will ask for your consent when you start using the website.
+We collect personal data when you visit and use our app. In this section, you will find
+more information about our app-specific processes and tools, in particular from external
+partners. By using the app you agree to the collection of necessary cookies, for the
+collection of other information we will ask for your consent when you start using the app.
 
 Controller's Contact details
 Name: Dance Factory Sweden AB
@@ -32,7 +32,6 @@ What data is being collected?
 User Data concerning app visitors:
 Full name;
 Email;
-Phone number;
 
 Analytics data concerning app visitors.
 device type and version;
